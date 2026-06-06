@@ -3,7 +3,7 @@ if(!Object['hasOwnProperty']('values')){Object['values']=function(c){return Obje
 //Generated with v2024.0.19, Tue Dec 16 2025
 
 var tour;
-var devicesUrl = {"general":"script_general.js?v=1765830000000"};
+var devicesUrl = {"general":"script_general.js?v=1765831200000"};
 
 (function()
 {
