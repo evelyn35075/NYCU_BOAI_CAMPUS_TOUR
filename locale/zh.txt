@@ -245,6 +245,6 @@ quizTimeout_480FF14C_1CC3_C320_41B0_807CCD462FD5.score = View Score
 ## 虛擬導覽
 
 ### 標題
-tour.name = 無標題 16
+tour.name = NYCU博愛校區導覽
 
 ### 說明
