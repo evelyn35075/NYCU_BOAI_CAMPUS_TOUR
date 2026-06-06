@@ -1,0 +1,250 @@
+#: locale=zh
+
+## 介面
+
+### Image
+Image_304D494E_2369_C713_41BD_9F5B7F047856.url = skin/Image_304D494E_2369_C713_41BD_9F5B7F047856_zh.png
+Image_36329EF0_237F_BD0F_418C_E80E6A4D820D.url = skin/Image_36329EF0_237F_BD0F_418C_E80E6A4D820D_zh.png
+Image_3651EDCE_2369_7F22_41C1_16B0F5169E8F.url = skin/Image_3651EDCE_2369_7F22_41C1_16B0F5169E8F_zh.png
+Image_3750CE38_237A_FD7F_41B3_9A0F82457004.url = skin/Image_3750CE38_237A_FD7F_41B3_9A0F82457004_zh.png
+Image_3750EF1E_236B_BB2A_41BD_17829A929F7F.url = skin/Image_3750EF1E_236B_BB2A_41BD_17829A929F7F_zh.png
+Image_3777B1AF_2379_C710_416D_CB390F7C29AA.url = skin/Image_3777B1AF_2379_C710_416D_CB390F7C29AA_zh.png
+Image_3787AA27_2379_4511_41C1_096E944C3DBB.url = skin/Image_3787AA27_2379_4511_41C1_096E944C3DBB_zh.png
+Image_379D057E_2367_4FF0_41C1_38F65482D478.url = skin/Image_379D057E_2367_4FF0_41C1_38F65482D478_zh.png
+Image_37BE8903_237B_C711_41C0_AB0655EAF275.url = skin/Image_37BE8903_237B_C711_41C0_AB0655EAF275_zh.png
+
+### 多行文字
+HTMLText_A68886F6_1D41_4EE0_417B_B4C5B655D765.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:37px;"><B>國立陽明交通大學</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;"><B>博愛校區</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">位於</SPAN><SPAN STYLE="color:#333333;font-size:12px;"><B>新竹市東區博愛街75號</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">，是原國立交通大學（現國立陽明交通大學）</SPAN><SPAN STYLE="color:#cc0000;font-size:12px;"><B>在台復校最早的校區</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">，佔地約11公頃。1980年光復校區行政大樓完工，校本部正式遷入辦公，學校重心也由博愛校區轉移到了光復校區。</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">博愛校區的校門有兩座－</SPAN>北大門<SPAN STYLE="color:#333333;font-size:12px;">、南大門，目前所在地為</SPAN><SPAN STYLE="color:#cc0000;font-size:12px;"><B>北大門</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">也是</SPAN><SPAN STYLE="color:#cc0000;font-size:12px;"><B>博愛校區的主要校門</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">。自1958年在台復校以來，博愛校區的大門，歷經風華始終如一。北大門右側有造景、石椅，提供訪客與居民乘涼。北大門右側有紀念碑，記錄著博愛校區的發展史。一座鑄有交通大學校徽的紀念碑-</SPAN><SPAN STYLE="color:#cc0000;font-size:12px;"><B>「飲水思源」</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">。</SPAN></SPAN></DIV></div>
+HTMLText_8A57C688_1CC1_C120_41AC_A519BF80011A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:37px;"><B>奈米中心</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;"><B>民國五十三年，交通大學在博愛校區成立全國第一個半導體研究實驗室</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">，為我國發展半導體技術之濫觴。五十四年擴充實驗室規模並命名為</SPAN><SPAN STYLE="color:#333333;font-size:12px;"><B>半導體中心</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">，同年製作出</SPAN><SPAN STYLE="color:#cc0000;font-size:12px;"><B>全國第一枚平面雙接面電晶體</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">，造就博愛校區成為台灣半導體的啟蒙地。此後數十年交大在固態電子領域獨領風騷，為我國積體電路產業培養眾多的領導人與產業中堅。因應半導體技術與研發環境不斷精進，於民國九十二年起，更名為</SPAN><SPAN STYLE="color:#333333;font-size:12px;"><B>奈米中心。</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">奈米中心目前經營運作包括光復校區的固態電子系統大樓以及博愛校區的半導體中心兩棟建築，擁有近4000平方公尺潔淨室，是國內大專院校中規模最大，設施最完善的半導體研發基地。中心有專任行政人員四名與技術人員十九名、負責業務運作與機台設施維護。另有十位教授組成的儀器管理委員會，提供專業意見協助管理相關設備製程服務，並規劃新設備之採購。除春節以及例行維護日期外，中心設施每天24小時開放研究生與研究人員使用。中心服務平台提供完整的製程與分析環境，可進行奈米積體電路製程、新式奈米元件、記憶體、量子元件、光電元件、微/奈米機電、寬能矽半導體等重要技術的研究與開發。中心也支援其他學術單位與學校，並服務產業。每年有超過五百名碩博士班研究生在本中心進行研究工作。</SPAN></SPAN></DIV></div>
+HTMLText_85F3AE8B_1F43_7D5B_41A3_BA4546D31782.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:37px;"><B>實驗二館</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">實驗二館為</SPAN><SPAN STYLE="color:#333333;font-size:12px;"><B>前瞻火箭研究中心實驗室</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">所在地。</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;"><B>國立陽明交通大學前瞻火箭研究中心</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;"><B>（英語：Advanced Rocket Research Center，縮寫為ARRC）</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">為2012年成立的跨校探空火箭研究學術機構，隸屬於國立陽明交通大學，在光復校區與博愛校區均有實驗據點，成立宗旨意在促進台灣太空科技的發展，由陽明交大帶領的台灣團隊自主研發、製造的運載火箭，並達成運送衛星或其他科學酬載的次軌道太空飛行目標以及未來航太的能力。</SPAN></SPAN></DIV></div>
+HTMLText_8B7D75D6_1CC1_4320_41B7_12D29474A13C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:37px;"><B>書田館</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">書田館是</SPAN><SPAN STYLE="color:#333333;font-size:12px;"><B>國立陽明交通大學醫學院</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">於2024年2月在博愛校區正式啟用的重要館舍，作為</SPAN><SPAN STYLE="color:#cc0000;font-size:12px;"><B>醫學院工程醫學研究中心</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">以及</SPAN><SPAN STYLE="color:#cc0000;font-size:12px;"><B>創新工程醫學教育</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">發展的重鎮。為感念捐贈者的支持，陽明交大將改建的生科實驗館更名為「書田館」，並於2024年1月19日舉行揭幕典禮。</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">書田館結合了工程和醫學的傳承與創新，融合了陽明交通大學的精神傳承。其成立的宗旨在於培育具備創新能力的新一代醫師，推動醫學與科技的跨領域合作，使其成為未來醫學創新的搖籃。館內一樓的醫學系辦公室牆上展示了國立陽明醫學院第一任院長韓偉的信念</SPAN><SPAN STYLE="color:#333333;font-size:12px;"><B>「非以役人，乃役於人」</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">，以傳承其服務利他的精神；而博愛校區作為交通大學半導體研發的起源地，與台灣科技發展有著深厚的歷史淵源，曾肩負台灣高科技發展和人才培育的重責，台灣第一顆電晶體即誕生於此，體現了交通大學</SPAN><SPAN STYLE="color:#333333;font-size:12px;"><B>「知新致遠、崇實篤行」</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">的學術風範。</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">書田館不僅是陽明交大師生學習與研究的場所，更是一個跨領域合作的平台。館舍面積約750坪，設有一樓的醫學系博愛校區辦公室、一間多功能教室、兩間PBL討論室、四間小討論室、以及醫學生研究室和交誼空間；二樓為智慧醫療模擬病房、臨床技術訓練中心、大數據機房和電子電路實驗室；三樓則設有濕式實驗室、細胞培養室、低溫冰櫃區、以及醫學生研究室。全棟設施可容納一位訪問教授、七位專任師資、30位研究生以及46位醫學生。</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">隨著竹銘醫院的建設，博愛校區將發展成為一個完整的生物醫學園區，作為陽明交大師生進行先進醫學研究的場域。我們將持續積極延攬工程、生物醫學等跨領域的優秀人才，並與電機學院、資訊學院及工程生物學院等合作，共同推動前沿的工程醫學研究以及和科學園區的產業合作。我們期望書田館的啟用能在未來的醫學教育、研究及臨床應用中發揮關鍵作用，成為孕育醫學創新、推動醫學進步的重要平台。</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_8A691FF2_1D47_5EE1_41B1_DF6CA51EB241.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:37px;"><B>竹銘館</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">博愛校區為1958年國立交通大學在臺復校時，為了設立</SPAN><SPAN STYLE="color:#333333;font-size:12px;"><B>電子研究所</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">，因此政府徵收位於新竹市郊十八尖山下博愛街三公頃土地，以校友會捐款及美援經費補助興建第一棟校舍。</SPAN><SPAN STYLE="color:#cc0000;font-size:12px;"><B>第一棟校舍</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">即今日博愛校區內</SPAN><SPAN STYLE="color:#cc0000;font-size:12px;"><B>為紀念前校長淩鴻勛</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">而命名之</SPAN><B>竹銘館（淩鴻勛字竹銘）</B><SPAN STYLE="color:#333333;font-size:12px;">，當時為教學研究、辦公與員生住宿之館舍。</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">直到1960年才興建第二棟校舍小型圖書館一座；相較於國立清華大學而言，可真是篳路藍縷。1964年恢復大學部後，先後增設四個學系，學生人數日益增加，也陸續收購附近土地至十二公頃，並開始大興土木，讓校舍建築除原有之竹銘館外，更增加了許多建築來提升競爭力；而原本的小型圖書館則改為學生活動中心，另闢一棟建築為圖書館。之後隨著光復校區的成立，1981年圖書館移動至光復校區。</SPAN></SPAN></DIV></div>
+HTMLText_8DB39073_1CC7_41E7_41B4_FDFF4F582479.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:37px;"><B>賢齊館</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">賢齊館（前瞻跨領域生醫工程大樓）於2018年落成，是為了紀念</SPAN><SPAN STYLE="color:#333333;font-size:12px;"><B>台灣ICT產業重要推手方賢齊先生</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">而命名。這棟建築不僅是校友凝聚力的象徵，更創下國內大學單一建物由超過千位校友與企業共同捐助的紀錄。其定位為</SPAN><SPAN STYLE="color:#cc0000;font-size:12px;"><B>「BioICT®」生醫電資基地</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">，旨在結合交大強大的資通訊優勢與生物醫學研究，推動智慧醫療與生醫工程的跨領域轉型。</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">館內規劃完善，樓高十層，內部設有先進的多功能生醫實驗室、智慧型育成中心及聯誼廳；其中</SPAN><SPAN STYLE="color:#cc0000;font-size:12px;"><B>「舜文講堂」</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">更是校內舉辦高端研討會的重要場域。賢齊館地理位置緊鄰未來預計興建的</SPAN><SPAN STYLE="color:#333333;font-size:12px;"><B>「竹銘醫院」</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">，與周邊的</SPAN><SPAN STYLE="color:#333333;font-size:12px;"><B>書田館、動物中心</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">串聯，共同構建出完整的生醫研發與臨床試驗聚落，成為陽明交大在新竹推動產學合作與生醫創新科技的核心重鎮。</SPAN></SPAN></DIV></div>
+
+## 媒體
+
+### Audio
+audiores_030F32D6_114A_D047_4178_24E08EABDF91.mp3Url = media/audio_014688CB_1145_F04D_41AF_AF41E6A562FE_zh.mp3
+audiores_03336D0A_114A_F1CF_41AF_1CB99D15ED59.mp3Url = media/audio_017B67ED_1145_F044_4198_8BA8F7BF6F54_zh.mp3
+audiores_0367CC19_114A_D7CC_414B_25BEE3781D5C.mp3Url = media/audio_1FD0397A_1145_F04F_41AB_A836AFBFEF26_zh.mp3
+audiores_0369718F_114A_B0C4_41A7_016C2DF0195F.mp3Url = media/audio_1FD3F9CD_1145_F044_41A8_6E16AEA4C544_zh.mp3
+audiores_03411B02_114A_B1BF_4195_BB1C1CC9C1A3.mp3Url = media/audio_1FD4BA1E_1145_F3C4_41A6_0EE58BC7B284_zh.mp3
+audiores_0353A086_114A_50C7_41A3_A1E91D927151.mp3Url = media/audio_1FD56A72_1145_F05F_4141_04B52B723058_zh.mp3
+audiores_03AE47F6_114A_5044_41A6_8ED26EABD237.mp3Url = media/audio_1FD61AC6_1145_F047_4182_4E3750BD9D8B_zh.mp3
+audiores_03B0ED49_114A_504D_419C_209637079651.mp3Url = media/audio_1FD74B18_1145_F1CC_4191_6952821F4B3E_zh.mp3
+audiores_9F60B50E_1CCF_4F5A_416B_1474D3398000.mp3Url = media/audio_6180FDC0_1CCE_DEC6_41AC_AC5A8C9DE11C_zh.mp3
+audiores_643B971B_1CC3_CB7A_4187_D4A706169D4C.mp3Url = media/audio_6E59A7A4_1CC1_4B4E_41B8_D758A0BDB0DB_zh.mp3
+audiores_643FC89F_1CC3_C57A_41B1_591D96C3ECF6.mp3Url = media/audio_6E5AE8E4_1CC1_46CE_41B7_780F561DD0C3_zh.mp3
+audiores_643D3958_1CC3_C7C6_4191_986DE87A1ED2.mp3Url = media/audio_6E5DE970_1CC1_47C5_41B1_F51B53EC26B5_zh.mp3
+audiores_847CB4FA_1F41_4EBA_4166_02E74FA97C0E.mp3Url = media/audio_8F095DCC_1F46_FEDE_41B8_3395AA934A98_zh.mp3
+audiores_65CA2DF4_1CC3_DECE_41B5_25DB5FB208F5.mp3Url = media/audio_9B9AC376_1CCF_47E1_41B6_B3C4EFDE0828_zh.mp3
+audiores_99F87CD7_1CC3_3ECA_41AB_F6F08AB7BD64.mp3Url = media/audio_AF1E29AF_1F43_475A_41B6_487145CFB95F_zh.mp3
+audiores_A77C0A5D_1F41_C5FF_41AE_20627A901110.mp3Url = media/audio_AF439E2B_1F47_5D5A_4171_0867554CA3A3_zh.mp3
+
+### Audio Subtitles
+
+### Floorplan
+
+### Image
+imlevel_0E2704FE_235B_C889_41BB_3D775F91E3E0.url = media/map_29D80215_1B41_C123_41A7_0EA7753718C6_zh_0.png
+imlevel_0E27E4FE_235B_C889_41B9_2AE7B3FB89A9.url = media/map_29D80215_1B41_C123_41A7_0EA7753718C6_zh_1.png
+imlevel_0E27B4FE_235B_C889_4181_57BC8E3C77C3.url = media/map_29D80215_1B41_C123_41A7_0EA7753718C6_zh_2.png
+imlevel_0E27A4FE_235B_C889_41B2_9EFAE298DB12.url = media/map_29D80215_1B41_C123_41A7_0EA7753718C6_zh_3.png
+imlevel_0EDA1472_235B_CF99_4168_1526CA547B21.url = media/map_2AFAD2C4_1B41_C120_41BA_7F76F1A5E6EE_zh_0.png
+imlevel_0EDAF472_235B_CF99_41B6_BDB51DB431BC.url = media/map_2AFAD2C4_1B41_C120_41BA_7F76F1A5E6EE_zh_1.png
+imlevel_0EDAD472_235B_CF99_41BF_91D781277E9C.url = media/map_2AFAD2C4_1B41_C120_41BA_7F76F1A5E6EE_zh_2.png
+imlevel_0EDAB473_235B_CF9F_41C1_3680ADD7A243.url = media/map_2AFAD2C4_1B41_C120_41BA_7F76F1A5E6EE_zh_3.png
+imlevel_0E200593_235B_C89F_41B4_4BEC74AADAAC.url = media/map_2D49DD4D_1CBF_4320_416D_6AFA4E3CDCBE_zh_0.png
+imlevel_0E20E593_235B_C89F_41A3_7648220178CD.url = media/map_2D49DD4D_1CBF_4320_416D_6AFA4E3CDCBE_zh_1.png
+imlevel_0E20D593_235B_C89F_41A0_E796FE6A0A9B.url = media/map_2D49DD4D_1CBF_4320_416D_6AFA4E3CDCBE_zh_2.png
+imlevel_0E20C593_235B_C89F_41B4_1B4ACFAF934D.url = media/map_2D49DD4D_1CBF_4320_416D_6AFA4E3CDCBE_zh_3.png
+imlevel_0E2D1629_235B_CB8B_41B9_3B1DE08E4A1A.url = media/map_2E6CB58C_1CC1_4320_416C_FFD6ED71AC73_zh_0.png
+imlevel_0E2DF629_235B_CB8B_41BA_C6746F2265B6.url = media/map_2E6CB58C_1CC1_4320_416C_FFD6ED71AC73_zh_1.png
+imlevel_0E2DD629_235B_CB8B_41BD_8ABC29E83093.url = media/map_2E6CB58C_1CC1_4320_416C_FFD6ED71AC73_zh_2.png
+imlevel_0E2DC629_235B_CB8B_41AE_FDF8C2877C6D.url = media/map_2E6CB58C_1CC1_4320_416C_FFD6ED71AC73_zh_3.png
+imlevel_0E2E46B5_235B_C89B_41B7_E7257D211263.url = media/map_2E9E5897_1CC1_412F_41A3_B157067E5159_zh_0.png
+imlevel_0E2E36B5_235B_C89B_41A8_D8043F053FCC.url = media/map_2E9E5897_1CC1_412F_41A3_B157067E5159_zh_1.png
+imlevel_0E2E06B5_235B_C89B_41BD_D8EFEC46CD02.url = media/map_2E9E5897_1CC1_412F_41A3_B157067E5159_zh_2.png
+imlevel_0E2EF6B5_235B_C89B_4192_CFD3B3E3FDB1.url = media/map_2E9E5897_1CC1_412F_41A3_B157067E5159_zh_3.png
+imlevel_0E2BF74C_235B_C98A_41B8_7EF696218D74.url = media/map_2EAA1A2D_1CC1_4163_41A7_A5C9FAE45C1A_zh_0.png
+imlevel_0E2BD74D_235B_C98B_41B2_2C1E740041A2.url = media/map_2EAA1A2D_1CC1_4163_41A7_A5C9FAE45C1A_zh_1.png
+imlevel_0E2BA74D_235B_C98B_41BF_5281E864D946.url = media/map_2EAA1A2D_1CC1_4163_41A7_A5C9FAE45C1A_zh_2.png
+imlevel_0E2B974D_235B_C98B_41B0_EB18EC8E9840.url = media/map_2EAA1A2D_1CC1_4163_41A7_A5C9FAE45C1A_zh_3.png
+imlevel_0E34E7EB_235B_C88F_41B1_8977CB93C794.url = media/map_2EF5A8E1_1CC1_42E3_41AF_2105AE67B5A7_zh_0.png
+imlevel_0E34C7EB_235B_C88F_41C1_C17EDCD8E3A8.url = media/map_2EF5A8E1_1CC1_42E3_41AF_2105AE67B5A7_zh_1.png
+imlevel_0E34A7EB_235B_C88F_41C0_61B3680159C6.url = media/map_2EF5A8E1_1CC1_42E3_41AF_2105AE67B5A7_zh_2.png
+imlevel_0E3497EB_235B_C88F_4173_8749648E1369.url = media/map_2EF5A8E1_1CC1_42E3_41AF_2105AE67B5A7_zh_3.png
+imlevel_0E319885_235B_C77B_4199_34C056A51F0F.url = media/map_2F034A77_1CC1_41EF_41A9_3E7A5310D6AF_zh_0.png
+imlevel_0E306885_235B_C77B_41B1_58364D927FF1.url = media/map_2F034A77_1CC1_41EF_41A9_3E7A5310D6AF_zh_1.png
+imlevel_0E303885_235B_C77B_4189_0D8FE1EC5842.url = media/map_2F034A77_1CC1_41EF_41A9_3E7A5310D6AF_zh_2.png
+imlevel_0E302885_235B_C77B_41BB_83D4A07E7838.url = media/map_2F034A77_1CC1_41EF_41A9_3E7A5310D6AF_zh_3.png
+imlevel_0E3D690D_235B_B98B_41A7_5236EEFADD48.url = media/map_2F13CC84_1CC1_4120_41A4_4CB8DB0FD899_zh_0.png
+imlevel_0E3D490D_235B_B98A_419C_005D30D4BCB1.url = media/map_2F13CC84_1CC1_4120_41A4_4CB8DB0FD899_zh_1.png
+imlevel_0E3D390E_235B_B989_41BD_1D9AD13F0B8B.url = media/map_2F13CC84_1CC1_4120_41A4_4CB8DB0FD899_zh_2.png
+imlevel_0E3D290E_235B_B989_41AE_DC4146F5564D.url = media/map_2F13CC84_1CC1_4120_41A4_4CB8DB0FD899_zh_3.png
+imlevel_0EDED3CD_235B_C88B_41B3_99E46A6C1285.url = media/map_3BC3B00D_1BCF_4123_4184_2D6D57A9902E_zh_0.png
+imlevel_0EDEB3CD_235B_C88B_41BB_1CFC14416A93.url = media/map_3BC3B00D_1BCF_4123_4184_2D6D57A9902E_zh_1.png
+imlevel_0EDE93CD_235B_C88B_41A1_DCCFDA56EB21.url = media/map_3BC3B00D_1BCF_4123_4184_2D6D57A9902E_zh_2.png
+imlevel_0EDE83CD_235B_C88B_41B0_E6DEE8958C96.url = media/map_3BC3B00D_1BCF_4123_4184_2D6D57A9902E_zh_3.png
+imlevel_0E00BB19_235B_B98B_41B3_1479E991A01D.url = media/map_60CAA208_1D4F_C121_41AB_0B6706658496_zh_0.png
+imlevel_0E00AB19_235B_B98B_4188_9C898101B375.url = media/map_60CAA208_1D4F_C121_41AB_0B6706658496_zh_1.png
+imlevel_0E037B19_235B_B98B_41B2_7FB6BDF18DF0.url = media/map_60CAA208_1D4F_C121_41AB_0B6706658496_zh_2.png
+imlevel_0E034B19_235B_B98B_4181_EA51D3F34141.url = media/map_60CAA208_1D4F_C121_41AB_0B6706658496_zh_3.png
+imlevel_3BED1987_23AF_C66F_4190_B8654454756D.url = media/panorama_1CA25B6F_117E_5045_41A1_A04FCC9C7AA8_HS_3oat2otp_zh.png
+imlevel_D9A342AF_1DC1_4160_41B7_7324DC606A4F.url = media/panorama_1F4C914D_117E_5045_41AA_077634D72A61_HS_r4dp8bs4_zh.png
+imlevel_2BA561A6_1CC1_4361_41AF_40CADFC29C5E.url = media/popup_2A0B9192_1CC1_4320_41B5_397E3DF78738_zh_0_0.png
+imlevel_2BA541A7_1CC1_436F_41B6_207B1E76A433.url = media/popup_2A0B9192_1CC1_4320_41B5_397E3DF78738_zh_0_1.png
+imlevel_14CD8297_1B42_C12F_41B3_AB5BFDD919CE.url = media/popup_4EA2EF41_128C_4C26_419D_4D57106858EB_zh_0_0.png
+imlevel_14CD9297_1B42_C12F_41A2_2CF6616AB08C.url = media/popup_4EA2EF41_128C_4C26_419D_4D57106858EB_zh_0_1.png
+imlevel_14C76395_1B42_C723_41B9_B0BE028292CE.url = media/popup_55E4CB6A_13B4_74FB_4179_86DFB0378B92_zh_0_0.png
+imlevel_14C77395_1B42_C723_41BB_19FC01D06877.url = media/popup_55E4CB6A_13B4_74FB_4179_86DFB0378B92_zh_0_1.png
+
+### Popup Image
+
+### Video
+videolevel_0E0B3C85_235B_BF7B_41B4_8FD285A36DF7.posterURL = media/video_3B904384_23A9_CA72_41B5_8322AC892D76_poster_zh.jpg
+videolevel_0E0B3C85_235B_BF7B_41B4_8FD285A36DF7.url = media/video_3B904384_23A9_CA72_41B5_8322AC892D76_zh.mp4
+videolevel_0EDC3366_235B_C9B8_41B7_2EB614E20A4A.posterURL = media/video_43AE26EE_139C_5DFB_41AC_F2298C34AA51_poster_zh.jpg
+videolevel_0EDC3366_235B_C9B8_41B7_2EB614E20A4A.url = media/video_43AE26EE_139C_5DFB_41AC_F2298C34AA51_zh.mp4
+videolevel_0EDFE3A9_235B_C88B_41AD_F49EB364CCDE.posterURL = media/video_48023A11_1374_D426_4198_DDC95C9DBA06_poster_zh.jpg
+videolevel_0EDFE3A9_235B_C88B_41AD_F49EB364CCDE.url = media/video_48023A11_1374_D426_4198_DDC95C9DBA06_zh.mp4
+videolevel_0E01CAF1_235B_B89B_41A0_2BB88EE0D84E.posterURL = media/video_4FFF9B27_1CCE_C76F_41B5_DD940910040C_poster_zh.jpg
+videolevel_0E01CAF1_235B_B89B_41A0_2BB88EE0D84E.url = media/video_4FFF9B27_1CCE_C76F_41B5_DD940910040C_zh.mp4
+videolevel_0EDD6333_235B_C99F_41A4_688D91A53098.posterURL = media/video_696254D9_1294_5DD9_4185_5F2A8943F4B0_poster_zh.jpg
+videolevel_0EDD6333_235B_C99F_41A4_688D91A53098.url = media/video_696254D9_1294_5DD9_4185_5F2A8943F4B0_zh.mp4
+
+### 影片字幕
+
+### 標題
+map_2AFAD2C4_1B41_C120_41BA_7F76F1A5E6EE.label = 01校門內
+panorama_1F4C914D_117E_5045_41AA_077634D72A61.label = 0校門外
+map_3BC3B00D_1BCF_4123_4184_2D6D57A9902E.label = 0校門外
+map_60CAA208_1D4F_C121_41AB_0B6706658496.label = 10.賢齊館內
+panorama_1B557DE6_10BF_D047_419A_DE878C7690E2.label = 10賢齊館內
+panorama_1CA25B6F_117E_5045_41A1_A04FCC9C7AA8.label = 1校門內
+panorama_10A4CB64_07A7_20BB_419A_0629775C64AB.label = 2.竹銘館前
+map_29D80215_1B41_C123_41A7_0EA7753718C6.label = 2.竹銘館前
+video_43AE26EE_139C_5DFB_41AC_F2298C34AA51.label = 20181225N 交大賢齊館啟用 宣誓打造生醫研發基地 - 新竹振道節目部 (720p, h264, youtube)
+map_2D49DD4D_1CBF_4320_416D_6AFA4E3CDCBE.label = 3.實驗二館
+panorama_13252D80_08A1_207B_4175_3CAA9F7C1BE0.label = 3.實驗二館
+panorama_1E483FF5_10BA_5044_41A2_B9C2B4FA83C4.label = 4.奈米中心
+map_2E6CB58C_1CC1_4320_416C_FFD6ED71AC73.label = 4.奈米中心
+album_2A335325_1CC3_4763_41A8_E654510B43FF_0.label = 431367
+panorama_1F57FA88_117A_50CC_4190_FE291290C47C.label = 5.書田館
+map_2E9E5897_1CC1_412F_41A3_B157067E5159.label = 5.書田館
+map_2EAA1A2D_1CC1_4163_41A7_A5C9FAE45C1A.label = 6.賢齊館前交叉路口
+panorama_1B50644F_10BD_D044_41AF_38C9A0800B9A.label = 6賢齊前交叉路口
+map_2EF5A8E1_1CC1_42E3_41AF_2105AE67B5A7.label = 7.賢齊館前道路
+panorama_1B560312_10BE_51DC_4163_29BFB0C7389C.label = 7賢齊館前道路
+map_2F034A77_1CC1_41EF_41A9_3E7A5310D6AF.label = 8.賢齊館前草地
+panorama_1B56003F_10BE_EFC4_41A2_55F88A6BB008.label = 8賢齊館前草地
+map_2F13CC84_1CC1_4120_41A4_4CB8DB0FD899.label = 9.賢齊館門口
+panorama_1B5488EE_10BE_5044_418E_9FC96EB001EE.label = 9賢齊館門口
+video_696254D9_1294_5DD9_4185_5F2A8943F4B0.label = Clipto AI video downloader_Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)
+album_2A335325_1CC3_4763_41A8_E654510B43FF_1.label = chatbot_button
+album_2A335325_1CC3_4763_41A8_E654510B43FF_2.label = foxchat
+photo_3E61B18E_1BC1_C321_41B6_247296A542A0.label = graduate
+album_2A335325_1CC3_4763_41A8_E654510B43FF_3.label = graduate
+album_2A335325_1CC3_4763_41A8_E654510B43FF_4.label = unnamed (2)_0
+album_2A335325_1CC3_4763_41A8_E654510B43FF_5.label = unnamed (3)_0
+album_A7EC2DAE_1F43_5F5D_41AF_E4E333B20D33_0.label = unnamed (3)_0
+video_4FFF9B27_1CCE_C76F_41B5_DD940910040C.label = videoplayback
+album_2A335325_1CC3_4763_41A8_E654510B43FF_6.label = 下載
+album_2A335325_1CC3_4763_41A8_E654510B43FF_7.label = 公車時刻表
+album_2A335325_1CC3_4763_41A8_E654510B43FF_13.label = 實驗meme
+video_48023A11_1374_D426_4198_DDC95C9DBA06.label = 尖叫
+album_2A335325_1CC3_4763_41A8_E654510B43FF_8.label = 尖叫
+album_2A335325_1CC3_4763_41A8_E654510B43FF.label = 相簿 431367
+album_A7EC2DAE_1F43_5F5D_41AF_E4E333B20D33.label = 相簿 unnamed (3)_0
+album_2A335325_1CC3_4763_41A8_E654510B43FF_11.label = 科技業
+photo_81090CA3_12BC_4C69_41A7_E81C15673E9C.label = 竹銘館舊照
+album_2A335325_1CC3_4763_41A8_E654510B43FF_9.label = 竹銘館舊照
+album_2A335325_1CC3_4763_41A8_E654510B43FF_10.label = 老校門
+photo_07FFEA9A_11B4_53BB_4195_462D1CD0267C.label = 老校門
+album_2A335325_1CC3_4763_41A8_E654510B43FF_12.label = 販賣機
+photo_47A9D762_138C_5CEB_4182_74CF1EA82A6B.label = 販賣機
+video_3B904384_23A9_CA72_41B5_8322AC892D76.label = 郭南宏口述歷史（郭南宏校長紀錄短片）
+
+## 彈出視窗
+
+### 內容
+htmlText_04AF583E_11B5_DEF8_4180_9446F7F7AFAB.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">1958年</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">交大在台復校並成立電子研究所，</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">第一屆碩士班招收20人，</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">於兩年後完成學業，</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">郭南宏前校長及鄧啟福前校長，</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">均為電子研究所第一屆畢業生。</SPAN></DIV></BODY></HTML></div>
+htmlText_5655940C_1394_DC3F_4172_1BE0FD95E616.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Calibri';">我才是真的花惹Fox!</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_4C0DB74C_1CC7_4F21_41AD_F30D2791217C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Calibri';">我是花 喏Fox~</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_4D86BC98_1CC1_4121_41B5_D63FA7DF9A21.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Calibri';">我是花 惹發~</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_5A94C8FD_13B4_D5D9_41B0_FF027E88C5F4.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">「你沒發現我 躲在角落~♫♪」</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">其實這個角落有拉麵販賣機耶!</SPAN></DIV></BODY></HTML></div>
+htmlText_D80C68CC_1F41_46DE_414C_331F3DA7D3D0.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">你確定你有看過每個角落嗎?(不要一直看地上~)</SPAN></DIV></BODY></HTML></div>
+htmlText_568FE2D9_138C_D5D9_419D_08C4DC33CEA8.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">叫FoodFox送~</SPAN></DIV></BODY></HTML></div>
+htmlText_CFF7D55F_1F46_CFFA_41B6_1843D79E76B6.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">小陷阱:狐狸的名字也是有意義的呢!</SPAN></DIV></BODY></HTML></div>
+htmlText_6E7E4817_1D41_412F_41BA_3E0D43C4FAE6.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">就不告訴你~~~</SPAN></DIV></BODY></HTML></div>
+htmlText_0F53CFCE_12B4_4C3A_41A6_DF866F6CC50A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">居然會注意到AED</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">你人也太好了吧~</SPAN></DIV></BODY></HTML></div>
+htmlText_D0220322_1F47_4B4A_41BB_CEE35A72E547.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">恭喜答對啦!!!太棒了!</SPAN></DIV></BODY></HTML></div>
+htmlText_7FAA0D15_138C_4C29_41B1_04376416F58C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">我不是松鼠</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">只是剛好在樹上而已</SPAN></DIV></BODY></HTML></div>
+htmlText_538D214A_1CC2_C321_4199_A800618DBF6E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">我是</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">反射狐...</SPAN></DIV></BODY></HTML></div>
+htmlText_3DD7E578_1BC1_43E0_41A2_C4654C0295E4.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">李熙謀所長端坐中央，</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">一旁為淩鴻勛老校長，</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">交大的校訓「知新致遠，崇實篤行」，</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">便是淩校長於1974年頒訂的。</SPAN></DIV></BODY></HTML></div>
+htmlText_685EEA0A_1D47_4121_415A_40752CC63ED7.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">看到AED就找得到我的分靈體~</SPAN></DIV></BODY></HTML></div>
+htmlText_9CDE429C_12B4_545E_41B1_28B085A6E0DB.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">竹銘館為交大電子研究所第一座校舍，</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">於四十八年初夏完成，</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">全部建築經費新台幣參佰萬元，</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">由校友會捐款貳佰萬元，</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">另美援經費補助壹百萬元。</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">建築設計者為名建築學者盧毓駿先生，</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">先生古道熱腸，拒受報酬。</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">竹銘館落成後，</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">暫棲台大的全體師生終於九月時遷回新竹，</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">自此有了溫暖的家！</SPAN></DIV></BODY></HTML></div>
+htmlText_5A798D76_1395_CCEB_419B_729205ACD0F8.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">花惹Fox 還在這!</SPAN></DIV></BODY></HTML></div>
+htmlText_9DF1F231_1D41_4160_41A9_BDA9165F6C61.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">花惹Fox告訴你 : 如果你的外送到了卻沒有在宿舍樓下是因為，它們被送到這張桌子上了!!!!!</SPAN></DIV></BODY></HTML></div>
+htmlText_73ABF385_1D42_C720_4195_3D68D596FB90.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">被你抓到在閒聊了!!!</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">想知道我們在聊甚麼嗎?</SPAN></DIV></BODY></HTML></div>
+htmlText_0766BD08_114E_D1CB_41A6_2990D91D55E4.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">被找到了!</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Hi~我是小狐伯!</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">我在騎腳踏車~ </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">繼續找其他小狐狸吧!</SPAN></DIV></BODY></HTML></div>
+htmlText_A7EC3903_1F43_C74B_419F_A8A38CED2504.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">要不要再重新數數看呢?</SPAN></DIV></BODY></HTML></div>
+htmlText_49338043_138C_3429_41B0_4AAE50F789B3.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">這個三角錐這邊可以曬太陽耶~</SPAN></DIV></BODY></HTML></div>
+htmlText_05772DF5_115A_7044_41A9_B80B45AA3A20.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">這麼小的角落都不放過，你人也太好了吧!!!!!!!!!!!</SPAN></DIV></BODY></HTML></div>
+htmlText_4A2DF068_128F_F4E6_41A7_FC6C9E11AE08.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">頂樓風好大...</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">這樣也被你找到啦!!</SPAN></DIV></BODY></HTML></div>
+
+### 標題
+window_3DD71578_1BC1_43E0_41B0_BDB459675052.title = 1965年電子研究所第六屆畢業合影
+window_391E0E60_23A7_7ABA_41A2_6BF2168DAC48.title = 郭南宏口述歷史（郭南宏校長紀錄短片）
+window_38232257_23D9_4AAC_41BE_F64107F663B3.title = 陽明交大博愛校區 書田館簡介
+
+## 操作
+
+### URL網址
+WebFrame_30D04E52_235B_5D33_416F_D3ED6797A02E.url = https://evelyngao-boai-fox-chat.hf.space
+PopupWebFrameBehaviour_38201258_23D9_4AA4_4161_8D751502A962.url = //www.youtube.com/embed/5dALBl15H6Q?si=s8Ux8ltCGRMJ5J8d
+PopupWebFrameBehaviour_391D5E60_23A7_7ABA_41B1_C1D2E36BF8F0.url = //www.youtube.com/embed/8J-8ppd24JU?si=pHT0QR7MzcbrCHSP
+
+## 熱點
+
+### Text
+HotspotPanoramaOverlayTextImage_3495D830_23AA_C6B8_419A_77F0393D6159.text = ↑請雙擊
+HotspotPanoramaOverlayTextImage_6FCB11BA_1D43_C361_4198_9EC73461ACFF.text = 行車安全宣導:前方有學校請減速~ 請目視前方號誌，不要看這!!!
+
+## 線上學習
+
+### 問題
+question_A557772C_1F43_CB5E_41A1_9ECE8B0806CF.title = 回想一下你的博愛校區之旅，從校門到賢齊館一路上總共遇到幾隻小狐狸呢?
+
+### 問題畫面
+quizQuestion_480C214C_1CC3_C320_4192_E6E465E0478D.ok = OK
+
+### 報告畫面
+quizScore_480A414C_1CC3_C320_41A2_028C7DE268ED.title = - SCORE -
+quizScore_480A414C_1CC3_C320_41A2_028C7DE268ED.completion = Completed
+quizScore_480A414C_1CC3_C320_41A2_028C7DE268ED.questionsCorrect = Correct
+quizScore_480A414C_1CC3_C320_41A2_028C7DE268ED.downloadCSV = Download .csv
+quizScore_480A414C_1CC3_C320_41A2_028C7DE268ED.questionsIncorrect = Incorrect
+quizScore_480A414C_1CC3_C320_41A2_028C7DE268ED.items = Items Found
+quizScore_480A414C_1CC3_C320_41A2_028C7DE268ED.questions = Questions
+quizScore_480A414C_1CC3_C320_41A2_028C7DE268ED.repeat = Repeat
+quizScore_480A414C_1CC3_C320_41A2_028C7DE268ED.submitToLMS = Submit
+quizScore_480A414C_1CC3_C320_41A2_028C7DE268ED.elapsedTime = Time
+
+### 答案
+questionOption_A39236D3_1F4E_CACA_419B_6BA1FD3030A1.text = 17
+questionOption_A225C18E_1F4F_475A_4197_A616CDF9A089.text = 18
+questionOption_A29C0755_1F4F_4BCE_41B7_D601EBC419E2.text = 19
+questionOption_DD517FC5_1F4F_7ACF_41B5_67A84FC63FC2.text = 20
+
+### 超時畫面
+quizTimeout_480FF14C_1CC3_C320_41B0_807CCD462FD5.title = - TIMEOUT -
+quizTimeout_480FF14C_1CC3_C320_41B0_807CCD462FD5.repeat = Repeat
+quizTimeout_480FF14C_1CC3_C320_41B0_807CCD462FD5.score = View Score
+
+## 虛擬導覽
+
+### 標題
+tour.name = 無標題 16
+
+### 說明
